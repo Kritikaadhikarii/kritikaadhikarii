@@ -1,4 +1,4 @@
-![github_cover_banner](12.png)
+<!--  ![github_cover_banner](12.png) -->
 
 <br>
 <br>
