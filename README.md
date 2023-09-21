@@ -2,10 +2,13 @@
 
 <br>
 <br>
+<!-- 
 <div align="center">
 
 [Email Me](mailto:itskritikaaa@gmail.com)
 </div>
+
+ -->
 </p>    
 <br>
 <!-- Languages and Tools -->
