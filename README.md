@@ -1,9 +1,10 @@
   <div class="container">
     <a href="https://www.buymeacoffee.com/kritikaadhikari" class="btn-coffee" target="_blank">
       <img class="coffee-icon" src="coffee.png" alt="Coffee Icon">
+    </a>
       <span class="btn-text">Buy Me a Coffee</span>
       
-    </a>
+
   </div>
 
 <!--  ![github_cover_banner](12.png) -->
