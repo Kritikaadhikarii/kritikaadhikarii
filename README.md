@@ -1,7 +1,8 @@
   <div class="container">
     <a href="https://www.buymeacoffee.com/kritikaadhikari" class="btn-coffee" target="_blank">
+      <img class="coffee-icon" src="coffee.png" alt="Coffee Icon">
       <span class="btn-text">Buy Me a Coffee</span>
-      <img class="coffee-icon" src="coffee-icon.png" alt="Coffee Icon">
+      
     </a>
   </div>
 
