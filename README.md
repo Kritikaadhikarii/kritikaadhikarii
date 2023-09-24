@@ -1,3 +1,4 @@
+<div style="background-color: black; color: white; border: 5px solid gold; padding: 20px;">
   <div class="container">
     <a href="https://www.buymeacoffee.com/kritikaadhikari" class="btn-coffee" target="_blank">
       <img class="coffee-icon" src="coffee.png" alt="Coffee Icon">
