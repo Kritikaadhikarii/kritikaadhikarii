@@ -62,8 +62,7 @@
 
 
 </div>
-
-<!--  End Stats Cards -->
+</div>
 
 ---
 <!-- Begin Footer -->
