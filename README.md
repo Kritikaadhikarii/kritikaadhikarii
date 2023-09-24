@@ -1,3 +1,10 @@
+  <div class="container">
+    <a href="https://www.buymeacoffee.com/kritikaadhikari" class="btn-coffee" target="_blank">
+      <span class="btn-text">Buy Me a Coffee</span>
+      <img class="coffee-icon" src="coffee-icon.png" alt="Coffee Icon">
+    </a>
+  </div>
+
 <!--  ![github_cover_banner](12.png) -->
 <p>Hello Everyone!</p>
 <br>
