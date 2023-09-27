@@ -1,4 +1,9 @@
-<div style="background-color: black; color: white; border: 5px solid gold; padding: 20px;">
+<div class="out" style="background-color: rgb(202, 159, 107); border-radius: 25px; text-align: center;">
+    <div class="main" style="background-color: bisque; border-radius: 25px; width: 250px; margin: 0 auto;">
+        <img src="12.png" alt="picture of kritika" style="float: left; width: 150px;">
+        <br>
+        <h1 style="text-align: center; color: black; display: inline-block; margin-left: 20px;">Kritika Adhikari</h1>
+        <div style="background-color: black; color: white; border: 5px solid gold; padding: 20px;">
   <div class="container">
     <a href="https://www.buymeacoffee.com/kritikaadhikari" class="btn-coffee" target="_blank">
       <img class="coffee-icon" src="coffee.png" alt="Coffee Icon">
@@ -7,9 +12,7 @@
   </div>
 
 <!--  ![github_cover_banner](12.png) -->
-<p>Hello Everyone!</p>
-<br>
-<p>I'm open for working</p>
+
 <br>
 <br>
 <!-- 
@@ -44,18 +47,9 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
+
 <div class="stats" align="center">
 
-<!-- ![Kritika Adhikari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritikaadhikarii&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) -->
-<!--
-![GitHub Streak](https://streak-stats.demolab.com?user=Kritikaadhikarii&count_private=true&theme=algolia&border_radius=20)
--->
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritikaadhikarii&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritikaadhikarii&layout=compact&show_icons=true&theme=algolia&border_radius=20)
@@ -72,4 +66,6 @@
     <a href="mailto:itskritikaaa@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="50px"/>
     </a>
+</div>
+        <div style="clear: both;"></div>
 </div>
