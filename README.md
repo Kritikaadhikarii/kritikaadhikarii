@@ -16,7 +16,7 @@
 <br>
 
 
-[Email Me](mailto:itskritikaaa@gmail.com)
+<!--  [Email Me](mailto:itskritikaaa@gmail.com)  -->
 </div>
 
 </p>    
