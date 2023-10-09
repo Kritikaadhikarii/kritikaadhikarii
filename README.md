@@ -10,12 +10,6 @@
     </a>
   </div>
 
-<!--  ![github_cover_banner](12.png) -->
-
-<br>
-<br>
-
-
 <!--  [Email Me](mailto:itskritikaaa@gmail.com)  -->
 </div>
 
