@@ -1,8 +1,10 @@
 <div class="out" style="background-color: rgb(202, 159, 107); border-radius: 25px; text-align: center; width: 500px; padding: 50px">
     <div class="main" style="background-color: bisque; border-radius: 25px; width: 450px; margin: 0 auto; border: 5px solid gold;">
-        <img src="12.png" alt="picture of kritika" style="float: left; width: 150px;">
+    <!--    <img src="12.png" alt="picture of kritika" style="float: left; width: 150px;">
         <br>
         <h1 style="text-align: center; color: black; display: inline-block; margin-left: 20px;">Kritika Adhikari</h1>
+
+     -->
   <div class="container">
     <a href="https://www.buymeacoffee.com/kritikaadhikari" class="btn-coffee" target="_blank">
       <img class="coffee-icon" src="coffee.png" alt="Coffee Icon" style="width:30px; height:auto;">
