@@ -15,8 +15,6 @@
 <!--  [Email Me](mailto:itskritikaaa@gmail.com)  -->
 </div>
 
-</p>    
-<br>
 <div class="main" style="background-color: bisque; border-radius: 25px; width: 450px; margin: 0 auto; border: 5px solid gold;">
 <!-- Languages and Tools -->
 
