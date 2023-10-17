@@ -6,7 +6,7 @@
 
      -->
 
-<img src="intro.png" alt="picture of kritika" style="float: left; width: 150px;">
+<img src="intro.png" alt="intro">
 
   <div class="container">
     <a href="https://www.buymeacoffee.com/kritikaadhikari" class="btn-coffee" target="_blank">
