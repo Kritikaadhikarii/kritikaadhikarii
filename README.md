@@ -7,10 +7,6 @@
      -->
 
 <img src="intro.png" alt="picture of kritika" style="float: left; width: 150px;">
-        <br>
-        <h1 style="text-align: center; color: black; display: inline-block; margin-left: 20px;">Kritika Adhikari</h1>
-
-
 
   <div class="container">
     <a href="https://www.buymeacoffee.com/kritikaadhikari" class="btn-coffee" target="_blank">
