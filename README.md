@@ -5,6 +5,8 @@
         <h1 style="text-align: center; color: black; display: inline-block; margin-left: 20px;">Kritika Adhikari</h1>
 
      -->
+
+     <img src="intro.png" alt="intro">
   <div class="container">
     <a href="https://www.buymeacoffee.com/kritikaadhikari" class="btn-coffee" target="_blank">
       <img class="coffee-icon" src="coffee.png" alt="Coffee Icon" style="width:30px; height:auto;">
