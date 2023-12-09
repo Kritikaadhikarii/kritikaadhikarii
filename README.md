@@ -1,4 +1,4 @@
-<p width="300"><img align="left" width="300" hspace="16" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmurcray&langs_count=10&exclude_repo=stock-tracker" alt="Top Langs"></p>
+<p width="300"><img align="left" width="300" hspace="16" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaadhikarii&langs_count=10&exclude_repo=stock-tracker" alt="Top Langs"></p>
 
 # Hi There, I'm Kritika!
 Welcome to my Github profile! Here you will find some cool projects and solutions for coding competitions or challenges.
