@@ -9,4 +9,4 @@ I'm a second-year Computer Science student at University of Wolverhampton. I lov
 ## Goals
 - Work for Google as a software engineer
 - Be comfortable with dynamic programming problems
-- Develop an application with Kotlin
+- Develop 15 applications with Kotlin
