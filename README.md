@@ -3,10 +3,12 @@
 # Hi There, I'm Kritika!
 Welcome to my Github profile! Here you will find some cool projects and solutions for coding competitions or challenges. For contacting, please reach out to me in my Linkedln.
 <br>
+<hr>
 
 ## About Me
 I'm a second-year Computer Science student at University of Wolverhampton. I love coding in Java, C, Python, and especially with Kotlin. I enjoy taking part in coding competitions and challenges. I'm passionate about problem-solving and always eager to learn more in tech.
 <br>
+<hr>
 
 ## Goals
 - Work for Google as a software engineer
