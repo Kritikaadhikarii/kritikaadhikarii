@@ -18,3 +18,4 @@ I'm a second-year Computer Science student at University of Wolverhampton. I lov
 - Develop 6 mobile and web applications each by the end of 2024.
 - Be comfortable with dynamic programming problems
 
+<img src="https://profile-counter.glitch.me/kritikaadhikarii/count.svg" />
