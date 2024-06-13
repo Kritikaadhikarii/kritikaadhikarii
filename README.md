@@ -7,7 +7,7 @@ Welcome to my Github profile! Here you will find some cool projects and solution
 <hr>
 
 ## About Me
-I'm a second-year Computer Science student at University of Wolverhampton. I love coding especially with JavaScript and Kotlin. I enjoy taking part in coding competitions and challenges. I'm passionate about problem-solving and always eager to learn more in tech.
+I'm a final year Computer Science student at University of Wolverhampton. I love coding especially with JavaScript and Kotlin. I enjoy taking part in coding competitions and challenges. I'm passionate about problem-solving and always eager to learn more in tech.
 <br>
 <hr>
 
