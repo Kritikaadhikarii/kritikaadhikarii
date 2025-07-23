@@ -18,4 +18,6 @@ I'm a final year Computer Science student at University of Wolverhampton. I love
 - Develop 6 mobile and web applications each by the end of 2024.
 - Be comfortable with dynamic programming problems
 
-<img src="https://profile-counter.glitch.me/kritikaadhikarii/count.svg" />
+<img src="https://camo.githubusercontent.com/6ca3594a7d7b38454de6689edc6fae73171c620e0e4a2e956fcf64840a4a8e4a/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6b726974696b61616468696b617269692e6b726974696b61616468696b6172696926" />
+
+
